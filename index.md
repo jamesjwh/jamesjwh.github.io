@@ -4,7 +4,7 @@
 
 [empty.md](empty.md)
 
-https://github.com/jamesjwh/jamesjwh.github.io/new/main#three
+[three](#three)
 
 
 # three
